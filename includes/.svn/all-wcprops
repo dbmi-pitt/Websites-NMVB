@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes
+END
+cache-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/cache-install.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/bootstrap.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/date.inc
+END
+stream_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/stream_wrappers.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/file.inc
+END
+token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/token.inc
+END
+mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/mail.inc
+END
+update.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/update.inc
+END
+ajax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/ajax.inc
+END
+session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/session.inc
+END
+theme.maintenance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/theme.maintenance.inc
+END
+module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/module.inc
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/common.inc
+END
+iso.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/iso.inc
+END
+file.mimetypes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/file.mimetypes.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/path.inc
+END
+actions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/actions.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/theme.inc
+END
+password.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/password.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/form.inc
+END
+updater.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/updater.inc
+END
+json-encode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/json-encode.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/install.inc
+END
+registry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/registry.inc
+END
+unicode.entities.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/unicode.entities.inc
+END
+authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/authorize.inc
+END
+errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/errors.inc
+END
+entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/entity.inc
+END
+batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/batch.inc
+END
+image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/image.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/language.inc
+END
+unicode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/unicode.inc
+END
+lock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/lock.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/xmlrpcs.inc
+END
+install.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/install.core.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/pager.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/locale.inc
+END
+tablesort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/tablesort.inc
+END
+graph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/graph.inc
+END
+archiver.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/archiver.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/cache.inc
+END
+utility.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/utility.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/menu.inc
+END
+batch.queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/batch.queue.inc
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/xmlrpc.inc
+END

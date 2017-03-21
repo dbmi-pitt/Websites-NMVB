@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update
+END
+update.compare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/update/update.compare.inc
+END
+update.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.api.php
+END
+update.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/update/update.test
+END
+update.fetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.fetch.inc
+END
+update.authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.authorize.inc
+END
+update.manager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/update/update.manager.inc
+END
+update.report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.report.inc
+END
+update.module
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.module
+END
+update.install
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.install
+END
+update-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update-rtl.css
+END
+update.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.css
+END
+update.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/update/update.settings.inc
+END
+update.info
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/update/update.info
+END

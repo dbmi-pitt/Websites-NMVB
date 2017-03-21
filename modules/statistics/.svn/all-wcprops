@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics
+END
+statistics.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.install
+END
+statistics.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.pages.inc
+END
+statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.php
+END
+statistics.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.info
+END
+statistics.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.tokens.inc
+END
+statistics.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.js
+END
+statistics.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.test
+END
+statistics.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.admin.inc
+END
+statistics.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/statistics/statistics.module
+END

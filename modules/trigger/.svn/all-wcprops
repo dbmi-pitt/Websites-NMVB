@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger
+END
+trigger.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.api.php
+END
+trigger.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.test
+END
+trigger.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.admin.inc
+END
+trigger.module
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.module
+END
+trigger.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.install
+END
+trigger.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/trigger/trigger.info
+END

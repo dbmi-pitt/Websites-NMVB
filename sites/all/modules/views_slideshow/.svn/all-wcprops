@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/LICENSE.txt
+END
+views_slideshow.module
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.module
+END
+views_slideshow.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.views.inc
+END
+views_slideshow.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.css
+END
+views_slideshow_plugin_style_slideshow.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow_plugin_style_slideshow.inc
+END
+views_slideshow.info
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.info
+END
+views_slideshow.make
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.make
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/README.txt
+END
+views_slideshow.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow.api.php
+END
+views_slideshow_controls_text.css
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views_slideshow/views_slideshow_controls_text.css
+END

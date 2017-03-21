@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale
+END
+views_handler_argument_locale_group.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_argument_locale_group.inc
+END
+views_handler_filter_node_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_filter_node_language.inc
+END
+views_handler_field_locale_group.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_field_locale_group.inc
+END
+views_handler_sort_node_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_sort_node_language.inc
+END
+views_handler_filter_locale_group.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_filter_locale_group.inc
+END
+views_handler_argument_locale_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_argument_locale_language.inc
+END
+views_handler_field_locale_link_edit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_field_locale_link_edit.inc
+END
+views_handler_field_locale_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_field_locale_language.inc
+END
+views_handler_filter_locale_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_filter_locale_language.inc
+END
+views_handler_filter_locale_version.inc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_filter_locale_version.inc
+END
+views_handler_field_node_language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/locale/views_handler_field_node_language.inc
+END

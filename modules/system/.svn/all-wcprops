@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system
+END
+system.queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.queue.inc
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/maintenance-page.tpl.php
+END
+system.tar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.tar.inc
+END
+system.messages.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.messages.css
+END
+system.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/system/system.admin.inc
+END
+system.base-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.base-rtl.css
+END
+html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/html.tpl.php
+END
+system.maintenance.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.maintenance.css
+END
+system.archiver.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.archiver.inc
+END
+system.updater.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.updater.inc
+END
+system.menus-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.menus-rtl.css
+END
+theme.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/theme.api.php
+END
+form.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/form.api.php
+END
+system.admin-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.admin-rtl.css
+END
+system.theme-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.theme-rtl.css
+END
+system.mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.mail.inc
+END
+system.info
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/system/system.info
+END
+system.messages-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.messages-rtl.css
+END
+language.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/language.api.php
+END
+system.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.api.php
+END
+image.gd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/image.gd.inc
+END
+system.base.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.base.css
+END
+system.install
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/system/system.install
+END
+system.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.tokens.inc
+END
+system.cron.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.cron.js
+END
+system.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.js
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/page.tpl.php
+END
+system.menus.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.menus.css
+END
+system.admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.admin.css
+END
+system.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/system/system.test
+END
+region.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/region.tpl.php
+END
+system.module
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/system/system.module
+END
+system.theme.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/system/system.theme.css
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/libraries/tests
+END
+LibrariesAdminWebTest.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/libraries/tests/LibrariesAdminWebTest.test
+END
+LibrariesWebTestBase.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/libraries/tests/LibrariesWebTestBase.test
+END
+LibrariesLoadWebTest.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/libraries/tests/LibrariesLoadWebTest.test
+END
+LibrariesUnitTest.test
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/libraries/tests/LibrariesUnitTest.test
+END

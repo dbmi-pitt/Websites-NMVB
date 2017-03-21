@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/tests/user
+END
+views_user_argument_default.test
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/tests/user/views_user_argument_default.test
+END
+views_user_argument_validate.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/tests/user/views_user_argument_validate.test
+END
+views_handler_field_user_name.test
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/tests/user/views_handler_field_user_name.test
+END
+views_user.test
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/tests/user/views_user.test
+END

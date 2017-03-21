@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/LICENSE.txt
+END
+captcha.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.test
+END
+captcha.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.admin.inc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/.gitignore
+END
+captcha.module
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.module
+END
+captcha.install
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.install
+END
+captcha_api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha_api.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/README.txt
+END
+captcha.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.inc
+END
+captcha.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.info
+END
+captcha.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/captcha/captcha.js
+END

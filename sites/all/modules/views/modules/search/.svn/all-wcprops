@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search
+END
+views_handler_field_search_score.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search/views_handler_field_search_score.inc
+END
+views_handler_argument_search.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search/views_handler_argument_search.inc
+END
+views_handler_sort_search_score.inc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search/views_handler_sort_search_score.inc
+END
+views_plugin_row_search_view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search/views_plugin_row_search_view.inc
+END
+views_handler_filter_search.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/views/modules/search/views_handler_filter_search.inc
+END

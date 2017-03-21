@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference
+END
+user_reference.module
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference/user_reference.module
+END
+user_reference.install
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference/user_reference.install
+END
+user_reference.info
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference/user_reference.info
+END
+user_reference.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference/user_reference.test
+END
+user_reference.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/references/user_reference/user_reference.devel_generate.inc
+END

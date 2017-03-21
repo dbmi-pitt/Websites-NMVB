@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/database/mysql
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/database/mysql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/includes/database/mysql/install.inc
+END

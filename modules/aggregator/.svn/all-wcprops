@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator
+END
+aggregator-summary-items.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-summary-items.tpl.php
+END
+aggregator.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.api.php
+END
+aggregator.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.admin.inc
+END
+aggregator-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-wrapper.tpl.php
+END
+aggregator.parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.parser.inc
+END
+aggregator.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.install
+END
+aggregator.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.pages.inc
+END
+aggregator-summary-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-summary-item.tpl.php
+END
+aggregator.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.test
+END
+aggregator-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-item.tpl.php
+END
+aggregator-feed-source.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-feed-source.tpl.php
+END
+aggregator.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.module
+END
+aggregator-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator-rtl.css
+END
+aggregator.processor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.processor.inc
+END
+aggregator.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.css
+END
+aggregator.fetcher.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.fetcher.inc
+END
+aggregator.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/aggregator/aggregator.info
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user
+END
+user.install
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.install
+END
+user.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.pages.inc
+END
+user.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.tokens.inc
+END
+user.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.js
+END
+user-profile-item.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user-profile-item.tpl.php
+END
+user.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.test
+END
+user-profile.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user-profile.tpl.php
+END
+user.module
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/user/user.module
+END
+user.permissions.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.permissions.js
+END
+user-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user-rtl.css
+END
+user.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.css
+END
+user.info
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/user/user.info
+END
+user-picture.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user-picture.tpl.php
+END
+user-profile-category.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user-profile-category.tpl.php
+END
+user.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.api.php
+END
+user.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/user/user.admin.inc
+END

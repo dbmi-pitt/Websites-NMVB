@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale
+END
+locale.module
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.module
+END
+locale.datepicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.datepicker.js
+END
+locale.install
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.install
+END
+locale-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale-rtl.css
+END
+locale.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.css
+END
+locale.info
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.info
+END
+locale.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.api.php
+END
+locale.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.test
+END
+locale.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/locale/locale.admin.inc
+END

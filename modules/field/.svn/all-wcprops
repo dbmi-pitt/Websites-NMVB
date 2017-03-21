@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field
+END
+field.multilingual.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.multilingual.inc
+END
+field.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.api.php
+END
+field.info.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.info.inc
+END
+field.crud.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/field/field.crud.inc
+END
+field.module
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.module
+END
+field.install
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.install
+END
+field.info.class.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.info.class.inc
+END
+field.form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.form.inc
+END
+field.info
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/field/field.info
+END
+field.attach.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.attach.inc
+END
+field.default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/field.default.inc
+END

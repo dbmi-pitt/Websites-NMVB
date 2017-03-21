@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/modules/field_sql_storage
+END
+field_sql_storage.info
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/modules/field/modules/field_sql_storage/field_sql_storage.info
+END
+field_sql_storage.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/modules/field_sql_storage/field_sql_storage.test
+END
+field_sql_storage.module
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/modules/field_sql_storage/field_sql_storage.module
+END
+field_sql_storage.install
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/modules/field/modules/field_sql_storage/field_sql_storage.install
+END

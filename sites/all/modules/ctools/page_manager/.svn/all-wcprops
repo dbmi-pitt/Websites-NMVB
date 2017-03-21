@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager
+END
+page_manager.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager/page_manager.info
+END
+page_manager.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager/page_manager.api.php
+END
+page_manager.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/24114/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager/page_manager.admin.inc
+END
+page_manager.module
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager/page_manager.module
+END
+page_manager.install
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/24112/Drupal_Websites/nmvb/drupal_root/sites/all/modules/ctools/page_manager/page_manager.install
+END
