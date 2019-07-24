@@ -1,0 +1,5 @@
+Gender,Treatment,Histology
+Female,Surgery,Epithelial
+Female,Radiation|Chemotherapy,Squamous
+Male,Chemotherapy,Mixed
+,Radiation,Epithelial

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Count. Select. Visualize.</title>
+        <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+        <style>
+        	text, li {
+        		overflow: hidden;
+        		white-space: nowrap;
+        		text-overflow: ellipsis;
+        		font-family: sans-serif;
+        		font-size: 16px;
+        	}
+			ul, body {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			li {
+				background-color: #E8E8E8;
+			}
+			li:nth-child(odd) {
+        		background-color: white;
+			}
+        </style>
+    </head>
+    <body>
+		<ul>
+		</ul>
+        <script type="text/javascript">
+
+		d3.csv('csvData.csv', function(data) {
+			var columns = Object.keys(data[0]);
+			var facets = [];
+			var values = [];
+			columns.forEach(function(columnitem){
+				data.forEach(function(dataitem){
+					dataitem[columnitem] = dataitem[columnitem].replace(/\|/g, ",").split(",");
+					dataitem[columnitem].forEach(function(datalistitem){
+						if (!(datalistitem == "")){
+							values.push(datalistitem);
+						}
+					})
+				})
+				values = [...new Set(values.sort())]
+				facets.push({"name":columnitem,"children":values});
+				values = [];
+			});
+
+		    var parent = d3.select("ul");
+		    var list = parent.selectAll("li")
+		        .data(facets)
+		        .enter()
+		        .append("li")	    	
+		        .attr("id",function (d, i) {
+			    	return d.name;
+			    })
+		        .text(function (d, i) {
+		        return d.name;
+		    	})
+				.style("width","199px")
+				.style("background-color","silver")
+		    	.on("click", expand);
+
+		    	list.append("text")
+		    	.attr("id",function (d, i) {
+		            return this.nodeName+","+d.name; //e.g. TEXT,value
+		        })
+		    	.text("_")
+		    	.style("background-color","silver")
+		    	.style("position","absolute")
+				.style("left","200px")
+				.style("width","99px");
+		   
+		    	list.append("span")
+		    	.attr("id",function (d, i) {
+		            return this.nodeName+","+d.name; //e.g. SPAN,value
+		        })
+				.style("background-color","steelblue")
+				.style("position","absolute")
+				.style("left","300px")
+				.style("width","200px")
+				.style("height","18px");
+
+			updateAll();
+
+		    function expand() {
+		       var nodeEnter = d3.select(this)
+		            .on("click", collapse)
+		            .append("ul")
+		            .selectAll("li")
+		            .data(function (d, i) {
+		            return d.children;
+		            })
+		            .enter()
+		            .append("li")
+		            .on("click", function() { d3.event.stopPropagation()});
+
+				nodeEnter.append("input")
+		        	.attr("type","checkbox")
+		        	//.attr("checked","true")
+					.attr("id",function (d, i) {
+			            return this.parentNode.parentNode.parentNode.id+","+this.nodeName+","+d; // e.g. columnn,INPUT,value
+			        })
+			        .on("change", updateAll);
+			           
+				nodeEnter.append("text")
+					.text(function (d, i) {
+			            return " "+d;
+			        })
+			        .style("width","199px");
+
+			    nodeEnter.append("text")
+		    		.attr("id",function (d, i) {
+		            	return this.parentNode.parentNode.parentNode.id+","+this.nodeName+","+d; //e.g. column,TEXT,value
+		        	})
+		    		.text("_")
+		    		.style("background-color", "inherit")
+			    	.style("position","absolute")
+					.style("left","200px")
+					.style("width","99px");
+
+			    nodeEnter.append("span")
+			    	.attr("id",function (d, i) {
+			            return this.parentNode.parentNode.parentNode.id+","+this.nodeName+","+d; //e.g. column,SPAN,value
+			        })
+					.style("background-color","lightsteelblue")
+					.style("position","absolute")
+					.style("left","300px")
+					.style("width","200px")
+					.style("height","18px");
+
+			    updateAll();
+		    }
+
+		    function collapse() {
+		        d3.select(this)
+		            .on("click", expand)
+		            .select("ul")
+		            .remove();
+			    updateAll();
+		    }
+
+		    function updateAll() {
+		        // collect checked values -> filter data -> update span widths, percents and counts
+		        var inputs, index;
+		        var checkboxes = [];
+				var inputs = document.getElementsByTagName('input');
+				for (index = 0; index < inputs.length; ++index) {
+    				checkboxes.push([inputs[index].id.split(",")[0],inputs[index].id.split(",")[2],inputs[index].checked])
+				}
+				var tempData = [];
+				var pass = true;
+				var filters = [];
+				// filter data to tempData
+				data.forEach(function(datum){
+					pass = true;
+					columns.forEach(function(columnTemp){
+						filters = [];
+						if (pass){
+							checkboxes.forEach(function(checkboxTemp){
+								if ((checkboxTemp[0] == columnTemp) && checkboxTemp[2]){
+									filters.push(checkboxTemp);
+								}
+							})
+							if (filters.length == 0){}else{
+								pass = false;
+								if (datum[columnTemp] == [""]){}else{
+									datum[columnTemp].forEach(function(value){
+										filters.forEach(function(filter){
+											if (String(value) == filter[1]){
+												pass = true;
+											}
+										})
+									})
+								}
+							}
+						}
+					})
+					if (pass) {
+						tempData.push(datum);
+					}
+				})
+
+				// update counts
+				var thecount, percent;
+				columns.forEach(function(column){
+					thecount = 0;
+					tempData.forEach(function(tempDatum){
+						if (!(tempDatum[column] == "")){
+							thecount = thecount + 1;
+						}
+					})
+					percent = thecount/data.length*100;
+					document.getElementById("SPAN,"+column).style.width = Math.round(percent*2)+"px";
+					document.getElementById("TEXT,"+column).innerHTML = percent.toPrecision(3)+"% ("+thecount+")";
+				})
+				checkboxes.forEach(function(checkbox){
+					thecount = 0;
+					tempData.forEach(function(tempDatum){
+						if (!(tempDatum[checkbox[0]] == "")){
+							if (tempDatum[checkbox[0]].includes(checkbox[1])){
+								thecount = thecount + 1;
+							}
+						}
+					})
+					percent = thecount/data.length*100;
+					document.getElementById(checkbox[0]+",SPAN,"+checkbox[1]).style.width = Math.round(percent*2)+"px";
+					document.getElementById(checkbox[0]+",TEXT,"+checkbox[1]).innerHTML = percent.toPrecision(3)+"% ("+thecount+")";
+				})				
+		    }
+	        
+        });
+
+        </script>
+    </body>
+</html>
